@@ -1,0 +1,29 @@
+body{background-color: rgb(209, 203, 215);
+font-size: large;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+#head{text-align: center;
+font-size: larger;
+background-color: brown;}
+
+.unique{text-align: center;
+    color: blue;
+font-size: xx-large;
+padding: 10px;
+margin: 5px;
+border: 10px;}
+
+.details{text-align: center;
+    color: aquamarine;
+font-size: xx-large;
+padding: 5px;
+margin: auto;
+border: 10px;}
+
+.li{background-color: aliceblue;
+    text-align: center;
+color: chartreuse;
+font-size: larger;
+padding: 20px;
+margin: 15px;
+border: 10px;}
